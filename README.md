@@ -5,4 +5,4 @@ Public repo about sharing with the rest of the community of my daily things I le
 ## Sections
 ---
 ### Personal Growth
-- [Personal Growth](Personal Growth/Show Your Job Tools.md)
+- [Personal Growth](Personal-Growth/Show-Your-Job-Tools.md)
