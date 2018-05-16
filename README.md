@@ -9,6 +9,7 @@ Public repo about sharing with the rest of the community of my daily things I le
 
 ### Android Development
 - [The right way of styling in Android](Android/Styling-UX/Mastering-Android-Themes.md)
+- [Android and iOS custom view's](Android/Styling-UX/Android-and-iOS-CustomViewLayouts.md)
 
 ### iOS Development
 - [Starting in iOS dev](iOS-Dev/Development/Starting-in-iOS.md)
