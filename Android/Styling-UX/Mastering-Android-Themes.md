@@ -15,7 +15,7 @@ For example u should not style in this way
  ```
  
  
-Instead you should create each resource be it color , dimension and create different file for each resource . Then
+Instead you should create each resource be it color , dimension and create **different file** for each resource . Then
 you should create a style and reference them inside there . This is a good way of but to improve on that you should
 be careful of the variable naming. 
 
@@ -53,6 +53,8 @@ With
 
 Styling your user interface means assigning color codes and dimensions to various properties. Like text color, size of icon, text size, background of screen etc etc.
 
-Style is a reusable form of collection of resources. By the way, A theme is also a collection of resources which modifies look and feel of your product. The minor difference is you apply theme on a bigger level, say a screen(Activity) and you usually apply style on a granular level, say a view. The difference is so subtle that there is no theme resource in Android. There is only style resource. You apply theme with style tag.
+Style is a reusable form of collection of resources. By the way, A theme is also a collection of resources which modifies look and feel of your product. *The minor difference is you apply theme on a bigger level, say a screen(Activity) and you usually apply style on a granular level, say a view*. The difference is so subtle that there is no theme resource in Android. There is only style resource. You apply theme with style tag.
 
+```xml
 android:theme="@style/ThemeGrey"
+```
