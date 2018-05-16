@@ -7,5 +7,8 @@ Public repo about sharing with the rest of the community of my daily things I le
 ### Personal Growth
 - [Personal Growth](Personal-Growth/Show-Your-Job-Tools.md)
 
+### Android Development
+- [Styling in Android](Android-Styling-UX/Mastering-Android-Themes.md)
+
 ### iOS Development
 - [Starting in iOS dev](iOS-Dev/Development/Starting-in-iOS.md)
