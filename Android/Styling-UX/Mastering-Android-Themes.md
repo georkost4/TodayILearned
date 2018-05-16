@@ -58,3 +58,20 @@ Style is a reusable form of collection of resources. By the way, A theme is also
 ```xml
 android:theme="@style/ThemeGrey"
 ```
+
+Lastly some info of creating your custom attributes for a Style can be found in [this](https://medium.com/mindorks/mastering-android-themes-chapter-4-591e03320182) article.
+
+Example:
+
+attr.xml
+
+```
+<attr name="themeColorPrimary" format="reference"/>
+Usage
+```
+
+```<FrameLayout
+    width, height ... other properties
+    android:background="?themeColorPrimary">
+</FrameLayout>
+```
