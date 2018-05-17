@@ -14,3 +14,7 @@ Public repo about sharing with the rest of the community of my daily things I le
 
 ### iOS Development
 - [Starting in iOS dev](iOS-Dev/Development/Starting-in-iOS.md)
+
+### Web Development
+
+- [Intro to WebAssembly](Web-Dev/WebAssembly.md)
