@@ -15,6 +15,7 @@ Public repo about sharing with the rest of the community of my daily things I le
 - [Android and iOS custom view's](Android/Styling-UX/Android-and-iOS-CustomViewLayouts.md)
 - [Animations With Contraint set's and Constraint Layout](Android/Styling-UX/Animations-With-ConstraintSets.md)
 - [Trending UI libraries](Android/Styling-UX/Trending-Libraries.md)
+- [RecyclerView tips](Android/Components/Using-RecyclerView-Tips.md)
 
 ### iOS Development
 - [Starting in iOS dev](iOS-Dev/Development/Starting-in-iOS.md)
