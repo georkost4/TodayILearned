@@ -5,7 +5,10 @@ Public repo about sharing with the rest of the community of my daily things I le
 ## Sections
 ---
 ### Personal Growth
-- [Personal Growth](Personal-Growth/Show-Your-Job-Tools.md)
+- [Showcase your skills](Personal-Growth/Show-Your-Job-Tools.md)
+
+### Productivity
+- [Getting started with VScode](Personal-Growth/Using-VScode.md)
 
 ### Android Development
 - [The right way of styling in Android](Android/Styling-UX/Mastering-Android-Themes.md)
