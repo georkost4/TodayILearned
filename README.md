@@ -15,7 +15,7 @@ Public repo about sharing with the rest of the community of my daily things I le
 - [The right way of styling in Android](Android/Styling-UX/Mastering-Android-Themes.md)
 - [Android and iOS custom view's](Android/Styling-UX/Android-and-iOS-CustomViewLayouts.md)
 - [Animations With Contraint set's and Constraint Layout](Android/Styling-UX/Animations-With-ConstraintSets.md)
-- [Trending UI libraries](Android/Styling-UX/Trending-Libraries.md)
+- [Android UI libraries](Android/Styling-UX/Trending-Libraries.md)
 - [RecyclerView tips](Android/Components/Using-RecyclerView-Tips.md)
 - [Logging in Android Studio](Android/Tools/logging-statements.md)
 
@@ -29,3 +29,4 @@ Public repo about sharing with the rest of the community of my daily things I le
 ### Side Tasks
 
 - [Create your Discord Bot](Side-Tasks/create-your-own-discord-bot.md)
+- [Ideas for apps to build/learn](Side-Tasks/app-building-ideas.md)
