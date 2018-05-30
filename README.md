@@ -24,3 +24,7 @@ Public repo about sharing with the rest of the community of my daily things I le
 ### Web Development
 
 - [Intro to WebAssembly](Web-Dev/WebAssembly.md)
+
+### Side Tasks
+
+- [Create your Discord Bot](Side-Tasks/create-your-own-discord-bot.md)
