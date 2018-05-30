@@ -11,6 +11,7 @@ Public repo about sharing with the rest of the community of my daily things I le
 - [Getting started with VScode](Personal-Growth/Using-VScode.md)
 
 ### Android Development
+- [Using Modules in Android Development](Android/Architecture/modularizing-your-app.md)
 - [The right way of styling in Android](Android/Styling-UX/Mastering-Android-Themes.md)
 - [Android and iOS custom view's](Android/Styling-UX/Android-and-iOS-CustomViewLayouts.md)
 - [Animations With Contraint set's and Constraint Layout](Android/Styling-UX/Animations-With-ConstraintSets.md)
