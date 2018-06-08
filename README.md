@@ -6,6 +6,7 @@ Public repo about sharing with the rest of the community of my daily things I le
 ---
 ### Personal Growth
 - [Showcase your skills](Personal-Growth/Show-Your-Job-Tools.md)
+- [Reflecting your knowledge](Personal-Growth/reflecting.md)
 
 ### Productivity
 - [Getting started with VScode](Personal-Growth/Using-VScode.md)
