@@ -12,14 +12,21 @@ Public repo about sharing with the rest of the community of my daily things I le
 - [Getting started with VScode](Personal-Growth/Using-VScode.md)
 
 ### Android Development
-- [Using Modules in Android Development](Android/Architecture/modularizing-your-app.md)
+
+#### UI/UX
+- [Mastering the Coordinator Layout](Android/Styling-UX/CoordinatorLayout.md)
+- [Animations With Contraint set's and Constraint Layout](Android/Styling-UX/Animations-With-ConstraintSets.md)
+- [RecyclerView tips](Android/Components/Using-RecyclerView-Tips.md)
 - [The right way of styling in Android](Android/Styling-UX/Mastering-Android-Themes.md)
 - [Android and iOS custom view's](Android/Styling-UX/Android-and-iOS-CustomViewLayouts.md)
-- [Animations With Contraint set's and Constraint Layout](Android/Styling-UX/Animations-With-ConstraintSets.md)
 - [Android UI libraries](Android/Styling-UX/Trending-Libraries.md)
-- [RecyclerView tips](Android/Components/Using-RecyclerView-Tips.md)
+
+#### Build
+- [Using Modules in Android Development](Android/Architecture/modularizing-your-app.md)
+
+#### Debugging
 - [Logging in Android Studio](Android/Tools/logging-statements.md)
-- [Mastering the Coordinator Layout](Android/Styling-UX/CoordinatorLayout.md)
+
 
 ### iOS Development
 - [Starting in iOS dev](iOS-Dev/Development/Starting-in-iOS.md)
