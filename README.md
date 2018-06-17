@@ -1,12 +1,14 @@
 # TodayILearned
 Public repo about sharing with the rest of the community of my daily things I learn about coding skills, tools and resources. I got the idea from a Medium article I was reading and I gave it a shot , this is the authors [github repo](https://github.com/wajahatkarim3/Today-I-Learned) check it out.
 
+![Image of Today I Learned](Photos/til.jpg)
 
 ## Sections
 ---
 ### Personal Growth
 - [Showcase your skills](Personal-Growth/Show-Your-Job-Tools.md)
 - [Reflecting your knowledge](Personal-Growth/reflecting.md)
+- [Control your Mood](Personal-Growth/hack-your-mood.md)
 
 ### Productivity
 - [Getting started with VScode](Personal-Growth/Using-VScode.md)
@@ -33,6 +35,7 @@ Public repo about sharing with the rest of the community of my daily things I le
 
 ### Web Development
 
+- [Map to Web Development 2018 Edition](Web-Dev/Guide-To-Web-Dev.md)
 - [Intro to WebAssembly](Web-Dev/WebAssembly.md)
 
 ### Side Tasks
