@@ -23,6 +23,12 @@ Public repo about sharing with the rest of the community of my daily things I le
 - [Android and iOS custom view's](Android/Styling-UX/Android-and-iOS-CustomViewLayouts.md)
 - [Android UI libraries](Android/Styling-UX/Trending-Libraries.md)
 
+#### Architecture Components
+
+ ##### WorkManager
+ - [Getting Started With WorkManager](Android/Tips/WorkManager.md)
+
+
 #### Build
 - [Using Modules in Android Development](Android/Architecture/modularizing-your-app.md)
 
