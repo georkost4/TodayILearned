@@ -9,6 +9,7 @@ Public repo about sharing with the rest of the community of my daily things I le
 - [Showcase your skills](Personal-Growth/Show-Your-Job-Tools.md)
 - [Reflecting your knowledge](Personal-Growth/reflecting.md)
 - [Control your Mood](Personal-Growth/hack-your-mood.md)
+- [Make the most of your day](Personal-Growth/hack-your-day.md)
 
 ### Productivity
 - [Getting started with VScode](Personal-Growth/Using-VScode.md)
@@ -22,6 +23,12 @@ Public repo about sharing with the rest of the community of my daily things I le
 - [The right way of styling in Android](Android/Styling-UX/Mastering-Android-Themes.md)
 - [Android and iOS custom view's](Android/Styling-UX/Android-and-iOS-CustomViewLayouts.md)
 - [Android UI libraries](Android/Styling-UX/Trending-Libraries.md)
+
+#### Architecture Components
+
+ ##### WorkManager
+ - [Getting Started With WorkManager](Android/Tips/WorkManager.md)
+
 
 #### Build
 - [Using Modules in Android Development](Android/Architecture/modularizing-your-app.md)
