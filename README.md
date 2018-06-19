@@ -14,6 +14,9 @@ Public repo about sharing with the rest of the community of my daily things I le
 ### Productivity
 - [Getting started with VScode](Personal-Growth/Using-VScode.md)
 
+### Git
+- [Git professional Tips](Git/git-tips.md)
+
 ### Android Development
 
 #### UI/UX
@@ -32,6 +35,7 @@ Public repo about sharing with the rest of the community of my daily things I le
 
 #### Build
 - [Using Modules in Android Development](Android/Architecture/modularizing-your-app.md)
+- [Circle CI(Continuous  Integration)](Android/Tools/circle-ci.md)
 
 #### Debugging
 - [Logging in Android Studio](Android/Tools/logging-statements.md)
