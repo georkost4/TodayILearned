@@ -20,12 +20,14 @@ Public repo about sharing with the rest of the community of my daily things I le
 ### Android Development
 
 #### UI/UX
+- [Designing Steps to build your app](Android/Styling-UX/design-guide.md)
 - [Mastering the Coordinator Layout](Android/Styling-UX/CoordinatorLayout.md)
 - [Animations With Contraint set's and Constraint Layout](Android/Styling-UX/Animations-With-ConstraintSets.md)
 - [RecyclerView tips](Android/Components/Using-RecyclerView-Tips.md)
 - [The right way of styling in Android](Android/Styling-UX/Mastering-Android-Themes.md)
 - [Android and iOS custom view's](Android/Styling-UX/Android-and-iOS-CustomViewLayouts.md)
 - [Android UI libraries](Android/Styling-UX/Trending-Libraries.md)
+
 
 #### Architecture Components
 
