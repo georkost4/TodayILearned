@@ -26,7 +26,7 @@ Public repo about sharing with the rest of the community of my daily things I le
 - [RecyclerView tips](Android/Components/Using-RecyclerView-Tips.md)
 - [The right way of styling in Android](Android/Styling-UX/Mastering-Android-Themes.md)
 - [Android and iOS custom view's](Android/Styling-UX/Android-and-iOS-CustomViewLayouts.md)
-- [Android UI libraries](Android/Styling-UX/Trending-Libraries.md)
+- [Create Android Custom Views](Android/Styling-UX/create-custom-views.md)
 
 
 #### Architecture Components

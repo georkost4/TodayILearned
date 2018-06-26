@@ -15,3 +15,19 @@ Woke up and went to the field. Went home to read the daily Medium articles , do 
 22/6/2018
 
 Woke up , ate breakfast , made some cofee and started the daily routine . Watched the game at 15:00 . Started working on problem at leetCode.com . Went outside to see the 18:00 game . After that I continued working at the problem I started . Solved it and worked on other similar problems . At 23:00 I went outside to play cards with my friends.
+
+23/6/2018
+
+Woke ate read Medium articles do my spanish / bulgarian exercises . Saw Belgium - Tunisia , went outside to see South Korea - Mexico and went back home to work on my project while watching Germany - Sweden .
+
+24/6/2018
+
+Woke ate read Medium , do my spanish / bulgarian exercises . Went out for coffee by the river . Went back to solve a leetCode problem and out again to close the night with some cards and Poland - Colombia .
+
+25/6/2018
+
+Woke up and went to work . I ate launch and slept until 6.30 . Then I started my daily routine Medium , spanish , bulgarian . Sadly I didn't finish my daily LeetCode problem . I worked on my project to at least commit one last time to GitHub before sending my GitHub account for review from Udacity professionals . Went outside to see the second half of Portugal - Iran .
+
+26/6/2018
+
+Woke up and went to work. I ate launch and slept until 5.30 but before that I submitted my daily LeetCode problem successfully . Then I started my daily routine Medium , spanish , bulgarian (**to be continued**)
