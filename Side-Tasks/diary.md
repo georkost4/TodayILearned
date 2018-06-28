@@ -35,3 +35,7 @@ Woke up and went to work. I ate launch and slept until 5.30 but before that I su
 27/7/2018
 
 Woke up and went to work. Ate launch and slept until 7 . I started my daily routine Medium , spanish, bulgarian . Tried to solve the leetCode problem but found out that it was more difficult than it seemed at first (*binary tree merging*). Then I submitted my material app project for review . Probably won't pass but I want to get exact requirements changes to finish faster and get going with my Capstone project. Then I went outside for some cards.
+
+28/8/2018
+
+Woke up and went to work . I was paid at last :P . Ate a very delightful launch and slept. Woke up around 7 pm and started the usually routine Medium , Language exercises etc . Almost passed the binary merging tree problem but I got a call to go outside for some cards .
