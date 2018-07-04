@@ -58,4 +58,8 @@ Woke up and dint go to work . Started my daily study routine and went to see the
 
 3/7/2018
 
-Woke up and WENT to work . It was a very hot day but I got through. Ate light and woke up around 5pm to start my study routine. Around 8.40 I ate and went outside to see Colombia - England and maybe some cards after that???
+Woke up and WENT to work . It was a very hot day but I got through. Ate light and woke up around 5pm to start my study routine. Around 8.40 I ate and went outside to see Colombia - England and maybe some cards after that.
+
+4/7/2018
+
+Went to the fields around 6 am. It was an interesting work with heat and many I mean many mosquitos around you . Anywhay did that and returned home for some fresh drink . After that I took a cold bath and put on some pijamas :) . I slept till noon and then I went to a friends birthday party for some pizza .
