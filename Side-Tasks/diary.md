@@ -58,4 +58,29 @@ Woke up and dint go to work . Started my daily study routine and went to see the
 
 3/7/2018
 
-Woke up and WENT to work . It was a very hot day but I got through. Ate light and woke up around 5pm to start my study routine. Around 8.40 I ate and went outside to see Colombia - England and maybe some cards after that???
+Woke up and WENT to work . It was a very hot day but I got through. Ate light and woke up around 5pm to start my study routine. Around 8.40 I ate and went outside to see Colombia - England and maybe some cards after that.
+
+4/7/2018
+
+Dont really remember . The day I'm writing this line is 16/7/2018 so RIP.
+
+5/7/2018
+
+The grand trip starts . I woke up around 2 pm and started packing my stuff for vacation . We went to take the bus to the airport around 5 pm . We arrived at the airport at 8 and we checked in our luggages.
+
+6/7/2018
+
+We arrived at the other airport and waited till morning to take our next flight . Spend some time at coffee shop and talked a  lot also played some cards . We boarded on the plane and we arrived at the island to take the boat . The view was amazingly breath-taking.  We waited about 2-3 hours for the ship to take us to the final destination. We took the ship which was the biggest I've ever been on and we finally went to the hotel. We settled our bags and we went straight to the bitch. It was 2pm If I recall when I went back to the hotel and went into the pool :P . Stayed until 3 pm and went to eat lunch. After launch I went to take a shower and after that to take a nap until the night world cup game . We watched the game and fekos met those two girls which we went to drink with. We survived that's what matters , I won't go into details .
+
+7/7/2018
+
+We woke up late and went to this beach you know where . We arrived around 5 pm there was not many people there surprisingly but anyhow I took my dose of swimming. Went to the hotel (straight to the pool) for an hour or so . Ate dinner , chilled at the balcony and after that took a nap till 2 am . We went to the next town to get some drinks. It was ok.
+
+15/8/2018
+
+Woke up late , ate lunch and took a nap again till 6.30 . Went outside to see the final of the world cup and after that straight home to send out my cv's .
+
+16/8/2018
+
+Went to work , ate lunch, took a afternoon nap , went for coffee and thats sums it up .
+
