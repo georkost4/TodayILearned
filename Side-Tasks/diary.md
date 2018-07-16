@@ -62,7 +62,8 @@ Woke up and WENT to work . It was a very hot day but I got through. Ate light an
 
 4/7/2018
 
-Dont really remember . The day I'm writing this line is 16/7/2018 so RIP.
+
+Went to the fields around 6 am. It was an interesting work with heat and many I mean many mosquitos around you . Anywhay did that and returned home for some fresh drink . After that I took a cold bath and put on some pijamas :) . I slept till noon and then I went to a friends birthday party for some pizza .
 
 5/7/2018
 
@@ -83,4 +84,6 @@ Woke up late , ate lunch and took a nap again till 6.30 . Went outside to see th
 16/8/2018
 
 Went to work , ate lunch, took a afternoon nap , went for coffee and thats sums it up .
+
+
 
