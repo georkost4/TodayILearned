@@ -77,6 +77,16 @@ We arrived at the other airport and waited till morning to take our next flight 
 
 We woke up late and went to this beach you know where . We arrived around 5 pm there was not many people there surprisingly but anyhow I took my dose of swimming. Went to the hotel (straight to the pool) for an hour or so . Ate dinner , chilled at the balcony and after that took a nap till 2 am . We went to the next town to get some drinks. It was ok.
 
+12/8/2018
+
+13/8/2018
+
+Woke up late , ate lunch and slept  again :P . Went outside for coffee returned and binged watched iZombie on Netflix.
+
+14/8/2018
+
+Went to work around 11 pm . Ate lunch  took a nap , went for coffee to watch the 3rd place match of the World cup . Went home to eat and get ready for a night out to the city and after that the club .
+
 15/8/2018
 
 Woke up late , ate lunch and took a nap again till 6.30 . Went outside to see the final of the world cup and after that straight home to send out my cv's .
@@ -84,6 +94,14 @@ Woke up late , ate lunch and took a nap again till 6.30 . Went outside to see th
 16/8/2018
 
 Went to work , ate lunch, took a afternoon nap , went for coffee and thats sums it up .
+
+17/8/2018
+
+Went to work , ate lunch , took a nap , went for coffee to play some cards . Went home ate dinner submitted my cap stage 1 project and went outside again(poor choice).
+
+18/8/2018
+
+Went to work , ate lunch , took a nap , went for coffee by the river and returned home to eat dinner and to write some commits here . 
 
 
 
