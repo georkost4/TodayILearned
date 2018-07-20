@@ -77,7 +77,20 @@ We arrived at the other airport and waited till morning to take our next flight 
 
 We woke up late and went to this beach you know where . We arrived around 5 pm there was not many people there surprisingly but anyhow I took my dose of swimming. Went to the hotel (straight to the pool) for an hour or so . Ate dinner , chilled at the balcony and after that took a nap till 2 am . We went to the next town to get some drinks. It was ok.
 
+8/7/2018
+
+
+9/7/2018
+
+10/7/2018
+
+11/7/2018
+
+
+
 12/8/2018
+
+End of vacations.Took a flight around 7 pm and landed home around 8 pm . We collected our luggages and waited for the bus for the final destination , home sweet home (bummer , thumbsDown) . Anyway arrived at home ate pizza and slept until afternoon coffee. Nothing notable to mention for the rest of the day , some netflix more food and chilling. From vacation mood to routine mood is a hard transition.
 
 13/8/2018
 
@@ -101,7 +114,15 @@ Went to work , ate lunch , took a nap , went for coffee to play some cards . Wen
 
 18/8/2018
 
-Went to work , ate lunch , took a nap , went for coffee by the river and returned home to eat dinner and to write some commits here . 
+Went to work , ate lunch , took a nap , went for coffee by the river and returned home to eat dinner and to write some commits here .
+
+19/8/2018
+
+Woke up late , we didn't had work .  Read a little about my Capstone project to decide which feautures should I grab from the API. Went for a coffee to chill . After that I went home and played a little with Google Maps SDK for Android to figure out how to implement them in my project. After that went outside and played some cards till late.
+
+20/8/2018
+
+Woke up and studied a bit. After that I went to work cause I was needed. Went home ate launch and took a short nap until coffee time. Returned home to study but I ended up applying for jobs. Went outside for some cards and some drinks at the local club.
 
 
 
