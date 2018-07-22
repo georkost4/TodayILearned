@@ -124,5 +124,13 @@ Woke up late , we didn't had work .  Read a little about my Capstone project to 
 
 Woke up and studied a bit. After that I went to work cause I was needed. Went home ate launch and took a short nap until coffee time. Returned home to study but I ended up applying for jobs. Went outside for some cards and some drinks at the local club.
 
+21/8/2018
+
+Woke up like a zombie with 3 hours of sleep to go to work. After that I took a nap and went out for coffee. Coffee ended and went back home. Studied a little and commited some changes to my github project. Went outside to play card games before going to drink at the local club. Memorable saturday with the most crowd of all saturdays with exception of 15th August. Stayed until morning and went to get something to eat and drink before going to sleep.
+
+22/8/2018 
+
+Woke up late with minor hangover , went outside to drink coffee and after that to play some card games with my friends. Ended up returning home at 10pm . Took a cold shower ate some dinner and the I sat on my PC to study and watch something until I sleep.
+
 
 
