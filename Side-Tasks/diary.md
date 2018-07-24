@@ -133,4 +133,9 @@ Woke up like a zombie with 3 hours of sleep to go to work. After that I took a n
 Woke up late with minor hangover , went outside to drink coffee and after that to play some card games with my friends. Ended up returning home at 10pm . Took a cold shower ate some dinner and the I sat on my PC to study and watch something until I sleep.
 
 
+23/8/2018
 
+Woke up around 10 pm and started studying for my Capstone project. Did the spanish/bulgarian lessons on my phone. Ate lunch and took a little nap. Went outside for a brief coffee. Returned home and worked till 2 am on my project. Did a lot of progress.
+
+24/8/2018
+Woke up early and went to work. Ate lunch and took a nap. Woke up around 6pm and went out for a coffee and some cards. Returned home ate dinner and responded to some job e-mails. After that worked on my project and finally slept.
