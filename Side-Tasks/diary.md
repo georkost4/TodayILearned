@@ -88,54 +88,59 @@ We woke up late and went to this beach you know where . We arrived around 5 pm t
 
 
 
-12/8/2018
+12/7/2018
 
 End of vacations.Took a flight around 7 pm and landed home around 8 pm . We collected our luggages and waited for the bus for the final destination , home sweet home (bummer , thumbsDown) . Anyway arrived at home ate pizza and slept until afternoon coffee. Nothing notable to mention for the rest of the day , some netflix more food and chilling. From vacation mood to routine mood is a hard transition.
 
-13/8/2018
+13/7/2018
 
 Woke up late , ate lunch and slept  again :P . Went outside for coffee returned and binged watched iZombie on Netflix.
 
-14/8/2018
+14/7/2018
 
 Went to work around 11 pm . Ate lunch  took a nap , went for coffee to watch the 3rd place match of the World cup . Went home to eat and get ready for a night out to the city and after that the club .
 
-15/8/2018
+15/7/2018
 
 Woke up late , ate lunch and took a nap again till 6.30 . Went outside to see the final of the world cup and after that straight home to send out my cv's .
 
-16/8/2018
+16/7/2018
 
 Went to work , ate lunch, took a afternoon nap , went for coffee and thats sums it up .
 
-17/8/2018
+17/7/2018
 
 Went to work , ate lunch , took a nap , went for coffee to play some cards . Went home ate dinner submitted my cap stage 1 project and went outside again(poor choice).
 
-18/8/2018
+18/7/2018
 
 Went to work , ate lunch , took a nap , went for coffee by the river and returned home to eat dinner and to write some commits here .
 
-19/8/2018
+19/7/2018
 
 Woke up late , we didn't had work .  Read a little about my Capstone project to decide which feautures should I grab from the API. Went for a coffee to chill . After that I went home and played a little with Google Maps SDK for Android to figure out how to implement them in my project. After that went outside and played some cards till late.
 
-20/8/2018
+20/7/2018
 
 Woke up and studied a bit. After that I went to work cause I was needed. Went home ate launch and took a short nap until coffee time. Returned home to study but I ended up applying for jobs. Went outside for some cards and some drinks at the local club.
 
-21/8/2018
+21/7/2018
 
 Woke up like a zombie with 3 hours of sleep to go to work. After that I took a nap and went out for coffee. Coffee ended and went back home. Studied a little and commited some changes to my github project. Went outside to play card games before going to drink at the local club. Memorable saturday with the most crowd of all saturdays with exception of 15th August. Stayed until morning and went to get something to eat and drink before going to sleep.
 
-22/8/2018 
+22/7/2018 
 
 Woke up late with minor hangover , went outside to drink coffee and after that to play some card games with my friends. Ended up returning home at 10pm . Took a cold shower ate some dinner and the I sat on my PC to study and watch something until I sleep.
 
 
-23/8/2018
+23/7/2018
 
 Woke up around 10 pm and started studying for my Capstone project. Did the spanish/bulgarian lessons on my phone. Ate lunch and took a little nap. Went outside for a brief coffee. Returned home and worked till 2 am on my project. Did a lot of progress.
 
-24/8/2018
+24/7/2018
 Woke up early and went to work. Ate lunch and took a nap. Woke up around 6pm and went out for a coffee and some cards. Returned home ate dinner and responded to some job e-mails. After that worked on my project and finally slept.
+
+
+19/8/2018
+
+Been a while since i wrote down my day to day activity. The brief story is that I focused on my Capstone Project and graduating from Udacity Android Nanodegree which I did , cudos for me :P . Managed to get 2 job interviews for September and if all goes as planned I will be working as a full time Android dev , in a phrase "a dream come true". I wont mention the nights of wasted time and money but they are required in a sense but anyways.
