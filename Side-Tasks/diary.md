@@ -144,3 +144,7 @@ Woke up early and went to work. Ate lunch and took a nap. Woke up around 6pm and
 19/8/2018
 
 Been a while since i wrote down my day to day activity. The brief story is that I focused on my Capstone Project and graduating from Udacity Android Nanodegree which I did , cudos for me :P . Managed to get 2 job interviews for September and if all goes as planned I will be working as a full time Android dev , in a phrase "a dream come true". I wont mention the nights of wasted time and money but they are required in a sense but anyways.
+
+20/8/2018
+
+Just another waste of day , with the half work early wake up social duties etc....
