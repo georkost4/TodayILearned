@@ -148,3 +148,7 @@ Been a while since i wrote down my day to day activity. The brief story is that 
 20/8/2018
 
 Just another waste of day , with the half work early wake up social duties etc....
+
+21/8/2018
+
+Half-day wasted due to in house stuff. But I managed to start learning RxJava through some introductory videos . It's a very powerful and difficult concept to grasp but once you get there you can have huge benefits especially for Java and Android asynchronous programming.
