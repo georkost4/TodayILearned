@@ -152,3 +152,7 @@ Just another waste of day , with the half work early wake up social duties etc..
 21/8/2018
 
 Half-day wasted due to in house stuff. But I managed to start learning RxJava through some introductory videos . It's a very powerful and difficult concept to grasp but once you get there you can have huge benefits especially for Java and Android asynchronous programming.
+
+23/8/2018
+
+Did a lot of work at the factory but no study for my personal growth. The good news is that I have several free days of work ahead of me to focus and improve my skillset.
