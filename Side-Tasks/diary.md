@@ -156,3 +156,7 @@ Half-day wasted due to in house stuff. But I managed to start learning RxJava th
 23/8/2018
 
 Did a lot of work at the factory but no study for my personal growth. The good news is that I have several free days of work ahead of me to focus and improve my skillset.
+
+24/8/2018
+
+Got very tired at work even i didnt do as much as i did the day before but with the heat i got my self very exhausted , slept until late afternoon and tried to implement a new field at room representing the dateTime of the object but with no luck
