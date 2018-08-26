@@ -160,3 +160,7 @@ Did a lot of work at the factory but no study for my personal growth. The good n
 24/8/2018
 
 Got very tired at work even i didnt do as much as i did the day before but with the heat i got my self very exhausted , slept until late afternoon and tried to implement a new field at room representing the dateTime of the object but with no luck
+
+26/8/2018
+
+Sadly didnt much of studying today , I promise to start tomorrow
