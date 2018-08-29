@@ -169,3 +169,7 @@ Sadly didnt much of studying today , I promise to start tomorrow
 27/8/2018
 
 Applied for interview this week , watched some videos about kotlin , mocking the network requests using okHttp client and Interceptors . You use service locator or Dagger to implement the mocked interceptor class where u put the response you expected to get from the server.
+
+28/8/2018
+
+Well I studied a lot and I struggled a lot to create the simplest data stucture I've been studying all-day long "Linked List" on Java
